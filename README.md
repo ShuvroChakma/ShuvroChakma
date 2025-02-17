@@ -13,7 +13,7 @@ A comprehensive **Job Board Platform** where:
 ✅ **Recruiters** can post job listings, manage candidates, and streamline hiring.  
 ✅ **Admin Panel** allows full control over job postings and users.  
 
-🔗 [[Live Demo](https://job-management-system-alpha.vercel.app/)](#) | [GitHub Repo](#)  
+🔗 [[Live Demo](https://job-management-system-alpha.vercel.app/)](#) | [[GitHub Repo](https://github.com/ShuvroChakma/Job-Management-System.git)](#)  
 
 ---
 
