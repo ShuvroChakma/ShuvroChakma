@@ -46,6 +46,7 @@ A matchmaking platform with:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
+🌟 **Always open to collaborations & learning new technologies!**
 
 
 
