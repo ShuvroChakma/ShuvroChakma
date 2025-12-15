@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working at Digital Hill Valley <br>👯 I’m looking to collaborate on web development projects, especially React, Next.js, and MERN stack applications  <br>🤝 I’m looking for help with optimizing performance in large-scale web applications  <br>🌱 I’m currently learning advanced React patterns, AI-powered web development, and cloud deployment  <br>💬 Ask me about React, Next.js, Tailwind CSS, MERN stack, and API integrations  <br>⚡ Fun fact: I love playing mobile games and badminton!😜  <br>
+
+I’m looking to collaborate on web development projects, especially React, Next.js, and MERN stack applications  <br>🤝 I’m looking for help with optimizing performance in large-scale web applications  <br>🌱 I’m currently learning advanced React patterns, AI-powered web development, and cloud deployment  <br>💬 Ask me about React, Next.js, Tailwind CSS, MERN stack, and API integrations  <br>⚡ Fun fact: I love playing mobile games and badminton!😜  <br>
 
 ## 🔥 **Featured Projects**
 
